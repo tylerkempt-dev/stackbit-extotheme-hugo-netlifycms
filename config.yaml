@@ -1,7 +1,7 @@
 title: Stackbit Exto Theme
 baseURL: /
 params:
-  accent_color: pink
+  accent_color: blue
   color_scheme: dark
   footer:
     content: '&copy; Stackbit-Exto. All rights reserved.'
@@ -12,7 +12,7 @@ params:
         url: 'https://www.stackbit.com'
   header:
     has_nav: true
-    title: Exto
+    title: test theme
 disableKinds:
   - RSS
   - taxonomy
